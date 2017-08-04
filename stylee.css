@@ -1,0 +1,19 @@
+.img{
+	width: 800px;
+	height:800px;
+	margin: 0 auto 0 auto;
+}
+.a{
+	width: 250px;
+	height: 250px;
+	float:left;
+}
+.b{width: 250px;
+	height: 250px;
+	float:center;
+}
+.c{
+	width: 250px;
+	height: 250px;
+	float:right;
+}
